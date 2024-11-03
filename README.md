@@ -12,7 +12,7 @@ To leverage my skills in cybersecurity, focusing on SIEM systems, threat detecti
 ---
 
 ## 🛠 Projects
-- **[SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab)**  
+- **[SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab){:target="_blank"}**  
   *A hands-on project focused on implementing and configuring a SIEM system to monitor, detect, and analyze network traffic for security events.*
 
 ---
@@ -22,12 +22,12 @@ To leverage my skills in cybersecurity, focusing on SIEM systems, threat detecti
 
 | Skill Category                              | Project                                       |
 |---------------------------------------------|------------------------------------------------|
-| **SIEM Implementation and Configuration**   | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
-| **Log Analysis and Threat Detection**       | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
-| **Custom Alerts and Incident Response**     | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
-| **Network Traffic Monitoring**              | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
-| **Penetration Testing and Attack Simulation** | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
-| **Data Visualization and Reporting**        | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
+| **SIEM Implementation and Configuration**   | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab){:target="_blank"} |
+| **Log Analysis and Threat Detection**       | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab){:target="_blank"} |
+| **Custom Alerts and Incident Response**     | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab){:target="_blank"} |
+| **Network Traffic Monitoring**              | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab){:target="_blank"} |
+| **Penetration Testing and Attack Simulation** | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab){:target="_blank"} |
+| **Data Visualization and Reporting**        | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab){:target="_blank"} |
 
 ---
 
@@ -39,8 +39,4 @@ To leverage my skills in cybersecurity, focusing on SIEM systems, threat detecti
   <a href="https://www.credly.com/badges/c185899b-3d67-4675-a6c4-036fe343f2ba" target="_blank">
     <img src="https://img.shields.io/badge/-CompTIA_A%2B-EA4C1D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="A+ Badge" />
   </a>
-  <a href="https://www.credly.com/badges/6b14fdd5-f32a-4f4c-9171-b6370ae1bbd1" target="_blank">
-    <img src="https://img.shields.io/badge/-CompTIA_Network%2B-0079C1?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+ Badge" />
-  </a>
-  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-EE0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge (In Progress)" />
-</div>
+  <a href="https://www.credly.com/badges/6b14fdd5-f32a-4f4c-9171-b6370ae1bbd1" target="_
