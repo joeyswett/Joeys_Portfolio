@@ -9,14 +9,27 @@ I am a cybersecurity student at Lynn University with a GPA of 3.94, passionate a
 ## Objective
 To leverage my skills in cybersecurity, focusing on SIEM systems, threat detection, and incident response, to become a proficient Cybersecurity Engineer.
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [SIEM Homelab](https://placeholder-link.com) |
-| Network Traffic Monitoring and Attack Detection| [SIEM Homelab](https://placeholder-link.com) |
-| Penetration Testing and Vulnerability Scanning | Placeholder Project |
-| Incident Response Planning and Execution      | Placeholder Project |
-| Security Automation with SOAR                 | Placeholder Project |
+---
+
+## 🛠 Projects
+- **[SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab)**  
+  *A hands-on project focused on implementing and configuring a SIEM system to monitor, detect, and analyze network traffic for security events.*
+
+---
+
+## 💼 Skills
+*Skills demonstrated through my projects.*
+
+| Skill Category                              | Project                                       |
+|---------------------------------------------|------------------------------------------------|
+| **SIEM Implementation and Configuration**   | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
+| **Log Analysis and Threat Detection**       | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
+| **Custom Alerts and Incident Response**     | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
+| **Network Traffic Monitoring**              | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
+| **Penetration Testing and Attack Simulation** | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
+| **Data Visualization and Reporting**        | [SIEM Homelab](https://github.com/joeyswett/SIEM_Homelab) |
+
+---
 
 ## Certifications
 <div>
@@ -31,7 +44,3 @@ To leverage my skills in cybersecurity, focusing on SIEM systems, threat detecti
   </a>
   <img src="https://img.shields.io/badge/-CompTIA_Security%2B-EE0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge (In Progress)" />
 </div>
-
-## Projects
-- [SIEM Homelab](https://placeholder-link.com)  
-  *A hands-on project focused on implementing and configuring a SIEM system to monitor, detect, and analyze network traffic for security events.*
