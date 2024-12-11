@@ -14,6 +14,9 @@ To leverage my skills in cybersecurity, focusing on SIEM systems, threat detecti
 ## 🛠 Projects
 - **<a href="https://github.com/joeyswett/SIEM_Homelab" target="_blank">SIEM Homelab</a>**  
   *A hands-on project focused on implementing and configuring a SIEM system to monitor, detect, and analyze network traffic for security events.*
+  
+- **<a href="https://github.com/joeyswett/GRC-Risk-Assessment-Dashboard/blob/main/README.md" target="_blank">GRC Risk Assessment Dashboard</a>**  
+  *A comprehensive project involving Governance, Risk, and Compliance (GRC) analysis to identify, assess, and mitigate organizational risks. It includes pre- and post-mitigation matrices and visualizations to demonstrate risk reduction.*
 
 ---
 
@@ -21,13 +24,21 @@ To leverage my skills in cybersecurity, focusing on SIEM systems, threat detecti
 *Skills demonstrated through my projects.*
 
 | Skill Category                              | Project                                       |
-|---------------------------------------------|------------------------------------------------|
+|---------------------------------------------|----------------------------------------------|
 | **SIEM Implementation and Configuration**   | <a href="https://github.com/joeyswett/SIEM_Homelab" target="_blank">SIEM Homelab</a> |
 | **Log Analysis and Threat Detection**       | <a href="https://github.com/joeyswett/SIEM_Homelab" target="_blank">SIEM Homelab</a> |
 | **Custom Alerts and Incident Response**     | <a href="https://github.com/joeyswett/SIEM_Homelab" target="_blank">SIEM Homelab</a> |
 | **Network Traffic Monitoring**              | <a href="https://github.com/joeyswett/SIEM_Homelab" target="_blank">SIEM Homelab</a> |
 | **Penetration Testing and Attack Simulation** | <a href="https://github.com/joeyswett/SIEM_Homelab" target="_blank">SIEM Homelab</a> |
 | **Data Visualization and Reporting**        | <a href="https://github.com/joeyswett/SIEM_Homelab" target="_blank">SIEM Homelab</a> |
+| **Risk Identification and Prioritization**  | <a href="https://github.com/joeyswett/GRC-Risk-Assessment-Dashboard/blob/main/README.md" target="_blank">GRC Risk Assessment Dashboard</a> |
+| **Governance, Risk, and Compliance (GRC)** | <a href="https://github.com/joeyswett/GRC-Risk-Assessment-Dashboard/blob/main/README.md" target="_blank">GRC Risk Assessment Dashboard</a> |
+| **Using GRC Frameworks (ISO 27001)**        | <a href="https://github.com/joeyswett/GRC-Risk-Assessment-Dashboard/blob/main/README.md" target="_blank">GRC Risk Assessment Dashboard</a> |
+| **Pre- and Post-Mitigation Risk Analysis**  | <a href="https://github.com/joeyswett/GRC-Risk-Assessment-Dashboard/blob/main/README.md" target="_blank">GRC Risk Assessment Dashboard</a> |
+| **Visualizing Risk Reductions**             | <a href="https://github.com/joeyswett/GRC-Risk-Assessment-Dashboard/blob/main/README.md" target="_blank">GRC Risk Assessment Dashboard</a> |
+| **Scenario-Based Risk Mitigation Planning** | <a href="https://github.com/joeyswett/GRC-Risk-Assessment-Dashboard/blob/main/README.md" target="_blank">GRC Risk Assessment Dashboard</a> |
+| **Incident Monitoring and Reporting**       | <a href="https://github.com/joeyswett/SIEM_Homelab" target="_blank">SIEM Homelab</a> |
+| **Team Collaboration for GRC Strategies**  | <a href="https://github.com/joeyswett/GRC-Risk-Assessment-Dashboard/blob/main/README.md" target="_blank">GRC Risk Assessment Dashboard</a> |
 
 ---
 
